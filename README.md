@@ -1,2 +1,2 @@
-# Technosentinel---Shelhacks
+# Technosentinel - Shelhacks
 Drone sentinel project
